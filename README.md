@@ -11,3 +11,5 @@ JavaScript was used to incorporate functionality within the program. The root 'i
 Tutor Mila Hose assisted in the implementation of the JavaScript in the root 'index.js' file. Google and past activities also aided in the process.
 
 ## Video Walk through
+
+https://drive.google.com/file/d/1_xQrI15zaMJTQDraUlvqa6wVIpoBE35Z/view
